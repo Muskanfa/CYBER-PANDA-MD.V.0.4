@@ -24,7 +24,7 @@ ____________________
 ➅. [Watch Videos](https://youtu.be/amorCyDpKIo?si=BR2yG4lG4RCHSWRs)
 
 <p align="center"> 
-<u>🎯 ＣＹＢＥＲ-ＰＡＮＤＡ-ＭＤ 🎯</u>
+<u>🎯 Faisal udas 🎯</u>
 </p>
 <p align="center">
 <img src="https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.3/assets/133668461/1f9ce998-691d-4394-ae3e-be7f3f51d4c6" width="300" height="300"/>
