@@ -36,7 +36,7 @@ ____________________
 </p>
 </p>
 <p align="center">
-<a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/Creator-Sachith.Chandra-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="bot-Creator" src="https://telegra.ph/file/de36ab077839f29416c0d.jpg"></a>
 </p>
 <p align="center"> 
 <u>🎯 ＣＹＢＥＲ-ＰＡＮＤＡ-ＭＤ 🎯</u>
